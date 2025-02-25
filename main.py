@@ -8,7 +8,7 @@ init(autoreset=True)
 def print_banner():
     print(Fore.CYAN + Style.BRIGHT + r"""
     ╔════════════════════════════════════════════╗
-    ║         IP LOOKUP TOOL by dxsp3red         ║
+    ║         IP LOOKUP TOOL by Zeliro           ║
     ╚════════════════════════════════════════════╝
     """)
 
